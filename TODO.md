@@ -3,9 +3,9 @@
 
 
 - Remove python
-- Add email verification timeout
+- Add reporting invalid captchas
 
 ### Done
 
-
+- Add email verification timeout
 - Add config file
