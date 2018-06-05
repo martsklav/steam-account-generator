@@ -23,6 +23,8 @@ please save the api key as you will need it for later.
 
 Assuming you have created an account and deposited some money in anti-captcha.com get your api key and place it in the config.json file
 
+you can do stuff in index with proxies idk
+
 ### variables:
 
 
