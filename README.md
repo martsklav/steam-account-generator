@@ -1,7 +1,7 @@
 # steam-account-generator
 
 
-A simple, customizable and easy to use account generator.
+A simple, customizable and easy to use multi platform steam account generator.
 
 
 I am currently selling, dm me at @martsklava on telegram for a price.
