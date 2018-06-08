@@ -9,7 +9,6 @@ You must have npm 5.6.0 or above
 
 You must have pm2 (`npm i -g pm2`)
 
-pip install requests  
 
 Just type `npm i`, the package.json already has all of the deps.
 
