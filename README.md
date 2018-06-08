@@ -27,7 +27,7 @@ please save the api key as you will need it for later.
 
 ## Step 3: Config
 
-Assuming you have created an account and deposited some money in anti-captcha.com get your api key and place it in the config.json file
+Assuming you have created an account and deposited some money in anti-captcha.com get your api key and place it in the index.js file
 
 you can do stuff in index with proxies idk
 
