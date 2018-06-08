@@ -1,5 +1,12 @@
 # steam-account-generator
 
+
+A simple, customizable and easy to use account generator.
+
+
+I am currently selling, dm me at @martsklava on telegram for a price.
+
+
 ## Step 1: installing dependencies and requirements
 You must have node.js 8 or above
 
