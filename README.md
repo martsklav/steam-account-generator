@@ -4,7 +4,7 @@
 A simple, customizable and easy to use multi platform steam account generator.
 
 
-I am currently selling, dm me at @martsklava on telegram for a price.
+I am currently selling, contact me at @martsklava on telegram for a price.
 
 
 ## Step 1: installing dependencies and requirements
