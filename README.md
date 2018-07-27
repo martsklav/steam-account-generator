@@ -53,7 +53,10 @@ prof_privacy - privacy stuff, 3 = public, 2 = friends only, 1 = private.
 `sudo pm2 start index.js` and do `sudo pm2 logs` to see the logs
 
 
-accounts will be in accounts.cg.json
+(Please use `sudo pm2 attach 0` if you are going to use any of the options that require user input, such as phone number verification.)
+
+
+accounts will be stored in accounts.cg.json
 
 
 just delete it if you want a new empty accounts.cg.json (perhaps your accounts got banned or whatever idk)
