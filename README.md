@@ -23,15 +23,16 @@ Just type `npm i`, the package.json already has all of the deps.
 Get an account for anti-captcha.com and deposit some funds, 
 
 
-please save the api key as you will need it for later.
+please save the api key as you will need it for the next step.
 
 ## Step 3: Config
 
 Assuming you have created an account and deposited some money in anti-captcha.com get your api key and place it in the config.json file
 
-you can do stuff in index with proxies idk
-
 ### variables:
+
+
+use_anticaptcha - Set to false to use the experimental AI solver feature (Credit: https://github.com/Ashesh3/).
 
 
 prof_image - url to desired profile image (must be a direct link).
@@ -53,7 +54,7 @@ prof_privacy - privacy stuff, 3 = public, 2 = friends only, 1 = private.
 `sudo pm2 start index.js` and do `sudo pm2 logs` to see the logs
 
 
-(Please use `sudo pm2 attach 0` instead of `sudo pm2 logs` if you are going to use any of the options that require user input, such as phone number verification.)
+(Please use `sudo pm2 attach 0` instead of `sudo pm2 logs` if using phone number verification.)
 
 
 accounts will be stored in accounts.cg.json
@@ -62,7 +63,6 @@ accounts will be stored in accounts.cg.json
 just delete it if you want a new empty accounts.cg.json (perhaps your accounts got banned or whatever idk)
 
 
-# Yeah that's basically it. Contact me on @martsklava on telegram if you want any further assistance. Generate away.
-
-
-# Please contact me there for issues or use the issue tracker with logs, issues help me make the generator more stable.
+# Massive thanks to:
+DedSec (https://github.com/Ashesh3/) - Ai captcha solver api and disposable email servers.
+## Please contact me at @martsklava for any further assistance.
