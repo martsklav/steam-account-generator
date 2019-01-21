@@ -4,7 +4,7 @@
 A simple, customizable and easy to use multi platform steam account generator.
 
 
-I am currently selling, contact me at @martsklava on telegram for a price.
+I am currently selling, contact me at @kisakvolvo on telegram for a price.
 
 
 ## Step 1: installing dependencies and requirements
@@ -65,4 +65,4 @@ just delete it if you want a new empty accounts.cg.json (perhaps your accounts g
 
 # Massive thanks to:
 DedSec (https://github.com/Ashesh3/) - Ai captcha solver api and disposable email servers.
-## Please contact me at @martsklava for any further assistance.
+## Please contact me at @kisakvolvo for any further assistance.
